@@ -7,6 +7,66 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" group-title="🏆 All Sports",Caze TV (720) by TAPAS
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="📺 Entertainment 🇧🇩",Drama 24
+http://vods2.aynascope.net/gseriesDrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="🎬 Movies",Jalsha Movies HD
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="🎬 Hollywood",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="🎬 Hollywood",HBO Hits
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="🎬 Hollywood",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="🎬 Hollywood",HBO Signature
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="🎬 Hollywood",Cinemax
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="🎬 Hollywood",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="🎬 Hollywood",Starz Encore Classic
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="🎬 Hollywood",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="🎬 Hollywood",Showtime Extreme
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="🎬 Hollywood",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="🎬 Hollywood",FX Movie Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="🎬 Hollywood",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Hollywood",MBC BOLLYWOOD
+http://93.184.10.248/MBCBollywood/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="🎬 Hollywood",TCM - Turner Classic Movies
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="🎬 Hollywood",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="185000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="📰 News",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-id="b4u_music" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="🎵Music",B4U Music VIP
+https://sm-monirul.top/toffee/play/b4u_music.m3u8
+
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="👶 Kids",PBS Kids by TAPAS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" group-title="🏆 All Sports",Caze TV by TAPAS
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
@@ -18,21 +78,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/NPoFh" group-title="🏆 All Sports",Fox Sports - FIFA 2026 by TAPAS
 http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="📺 Entertainment 🇧🇩",Drama 24
-http://vods2.aynascope.net/gseriesDrama/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="🎬 Movies",Jalsha Movies HD
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip
-
-#EXTINF:-1 tvg-id="185000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="📰 News",DBC News HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-
-#EXTINF:-1 tvg-id="b4u_music" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="🎵Music",B4U Music VIP
-https://sm-monirul.top/toffee/play/b4u_music.m3u8
-
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="👶 Kids",PBS Kids by TAPAS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="👶 Kids",Kids Stars by TAPAS
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
@@ -573,16 +618,4 @@ https://drive.google.com/uc?export=download&id=1V6LNrewnS4WeSF9n52EpPSeeUlKtoJJB
 
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="🏆 All Sports",BTV LIVE
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",9X Tashan
-https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",9X Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",9X Jhakaas
-https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 group-title="🏆 All Sports",D Sports
-http://38.226.210.46:8000/play/A008/index.m3u8
 
