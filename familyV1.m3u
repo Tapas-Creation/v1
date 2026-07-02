@@ -670,3 +670,6 @@ https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="🏆 All Sports",Bein Sports 2 Arabic
 https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Bioscope%2B_logo.png" group-title="🏆 All Sports",Bioscope Plus
+https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+
