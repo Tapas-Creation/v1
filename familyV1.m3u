@@ -88,8 +88,8 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" group-title="🏆 All Sports",Fussball Tv by TAPAS
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/NPoFh" group-title="🏆 All Sports",Fox Sports - FIFA 2026 by TAPAS
-http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="🏆 All Sports",Fox Sports 4K 2026 by TAPAS
+http://stream.cammonitorplus.net/1752/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="👶 Kids",Kids Stars by TAPAS
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
@@ -166,7 +166,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="👶 Kids",Zoo Moo by TAPAS
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="223000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="🛐 Religious",Islamic TV
+#EXTINF:-1 tvg-id="223000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="📺 Entertainment 🇧🇩",DESH live
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="📻 FM Radio",Bangladesh Betar by TAPAS
@@ -466,18 +466,6 @@ https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png" group-title="📰 News",BBC Bangla
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
 
-#EXTINF:-1 tvg-id="toffee" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 1
-http://sm-monirul.top/tof/live/toffee1/index.m3u8
-
-#EXTINF:-1 tvg-id="sports_highlights" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee",TOFFEE Sports VIP
-https://sm-monirul.top/toffee/play/sports_highlights.m3u8
-
-#EXTINF:-1 tvg-id="toffee_movie" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee",TOFFEE Movies VIP
-https://sm-monirul.top/toffee/play/toffee_movie.m3u8
-
-#EXTINF:-1 tvg-id="toffee_drama" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee",TOFFEE Dramas VIP
-https://sm-monirul.top/toffee/play/toffee_drama.m3u8
-
 #EXTINF:-1 tvg-id="somoy_tv" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="📺 Entertainment 🇧🇩",Somoy TV
 https://sm-monirul.top/toffee/play/somoy_tv.m3u8
 
@@ -654,18 +642,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 group-title="🏆 All Sports",D SPORTS 1080p
 https://pub-4d2103f8af8641e2974e9590622c3264.r2.dev/d-sports/d-sports.m3u8
-
-#EXTINF:-1 group-title="🏆 All Sports",SportzX Live
-https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="🏆 All Sports",SportzX Live
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="🏆 All Sports",SportzX Live 2
-https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 group-title="🏆 All Sports",SportzX Live
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="🏆 All Sports",Bein Sports 2 Arabic
 https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
