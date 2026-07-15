@@ -26,16 +26,16 @@ http://vods2.aynascope.net/gseriesDrama/index.m3u8
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="🎬 Hollywood",HBO
-http://103.213.31.111/HBOHD/index.m3u8
+http://38.194.226.190:8000/play/a02g/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="🎬 Hollywood",HBO Hits
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="🎬 Hollywood",HBO Family
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+http://38.194.226.190:8000/play/a029/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="🎬 Hollywood",HBO Signature
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+http://38.194.226.190:8000/play/a028/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="🎬 Hollywood",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
@@ -620,7 +620,7 @@ https://drive.google.com/uc?export=download&id=1V6LNrewnS4WeSF9n52EpPSeeUlKtoJJB
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="🎬 Hollywood",HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
+http://38.194.226.190:8000/play/a02h/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
 
 #EXTINF:-1 group-title="🏆 All Sports",D SPORTS 1080p
 https://pub-4d2103f8af8641e2974e9590622c3264.r2.dev/d-sports/d-sports.m3u8
@@ -651,4 +651,16 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🛐 Religious",Hare Krsna TV
 https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬 Hollywood",HBO XTREME
+http://38.194.226.190:8000/play/a02f/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
+
+#EXTINF:-1 group-title="🎬 Hollywood",HBO POP
+http://38.194.226.190:8000/play/a01t/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
+
+#EXTINF:-1 group-title="🎬 Hollywood",HBO +
+http://38.194.226.190:8000/play/a02l/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
+
+#EXTINF:-1 group-title="🎬 Hollywood",HBO MUNDI
+http://38.194.226.190:8000/play/a01h/index.m3u8?fbclid=IwdGRjcAS-6thjbGNrBL7qOGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHmexC3pWV1ttjyR9VFbscl5aXDRbkCz6fvVZrk4Wugx_DmLtTHoHGzIvmSqF_aem_4-yemyDI2CO1MZOdhbNWAg
 
