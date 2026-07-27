@@ -670,3 +670,6 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=225746&ext
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155777.png" group-title="🎵Music",SANGEET BANGLA
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155777&extension=ts&play_token=LedlZqELGn
 
+#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
