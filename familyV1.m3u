@@ -673,3 +673,6 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155777&ext
 #EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="📺 Entertainment 🇧🇩",Sony Aath HD new
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+
