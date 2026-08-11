@@ -265,65 +265,107 @@ http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=225746&ext
 http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=155777&extension=ts&play_token=LedlZqELGn
 #EXTINF:-1 tvg-url="https://da.gd/iAYuP" group-title="🎵Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/atnbangla.png" group-title="📺 Entertainment 🇧🇩",BGL - ATN BANGLA
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=767345&extension=ts&play_token=blScGG4ICg
-#EXTINF:-1 tvg-url="http://51.158.145.100/picons/logos/logos/ZEE-BANGLA.png" group-title="📺 Entertainment 🇧🇩",BGL - ZEE BANGLA
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=1173096&extension=ts&play_token=pbF6g7hDvw
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-HD.jpeg" group-title="📺 Entertainment 🇧🇩",BGL - ZEE BANGLA UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281671&extension=ts&play_token=s3fDAVpdCT
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-CINEMA.png" group-title="📺 Entertainment 🇧🇩",BGL - ZEE BANGLA CINEMA
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281673&extension=ts&play_token=aQMVrQxW4o
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/STAR-JALSHA-MOVIES-HD.png" group-title="📺 Entertainment 🇧🇩",BGL - STAR JALSHA MOVIES UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281674&extension=ts&play_token=Ha0OvnsAlT
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/starjalsha.png" group-title="📺 Entertainment 🇧🇩",BGL - STAR JALSHA UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281675&extension=ts&play_token=xXR8TX1cwH
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/COLORS-BANGLA-HD.jpeg" group-title="📺 Entertainment 🇧🇩",BGL - COLORS BANGLA UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281676&extension=ts&play_token=JtSGbEh3tI
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/24-GHANTA.png" group-title="📺 Entertainment 🇧🇩",BGL - 24 GHANTA
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281677&extension=ts&play_token=Y1odgSmgj8
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/BOISHAKHI-TV.jpeg" group-title="📺 Entertainment 🇧🇩",BGL - BOISHAKHI TV HD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=839370&extension=ts&play_token=8OgfTx0iQT
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/CHANNEL-24-HD.jpeg" group-title="📺 Entertainment 🇧🇩",BGL - CHANNEL 24 HD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=839374&extension=ts&play_token=IYAECuk499
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/zeetvhd.png" group-title="📺 Entertainment 🇧🇩",IN - ZEE TV UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281277&extension=ts&play_token=6AdtspTa3k
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/logos/zeetv.png" group-title="📺 Entertainment 🇧🇩",IN - ZEE TV USA HD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=1179866&extension=ts&play_token=ic75L3sPIi
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/zeecinemahd.png" group-title="📺 Entertainment 🇧🇩",IN - ZEE CINEMA UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281278&extension=ts&play_token=04rs4VfSFK
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/in.zing.png" group-title="📺 Entertainment 🇧🇩",IN - ZING
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281279&extension=ts&play_token=mawtLpJrHp
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/colorshd.png" group-title="📺 Entertainment 🇧🇩",IN - COLORS UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281280&extension=ts&play_token=NQQYz9y4JW
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/stargoldhd.png" group-title="📺 Entertainment 🇧🇩",IN - STAR GOLD UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281281&extension=ts&play_token=nsgKcUE690
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/star-gold-select-.png" group-title="📺 Entertainment 🇧🇩",IN - STAR GOLD SELECT HD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=844263&extension=ts&play_token=pe4HiHfAgv
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/stargoldselect.png" group-title="📺 Entertainment 🇧🇩",IN - STAR GOLD SELECT UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281282&extension=ts&play_token=Ra6KtK1uuT
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/starbharathd.jpg" group-title="📺 Entertainment 🇧🇩",IN - STAR BHARAT UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281284&extension=ts&play_token=YJlJTMbMGQ
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/starutsav.png" group-title="📺 Entertainment 🇧🇩",IN - STAR UTSAV
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281285&extension=ts&play_token=csjeGH3rd4
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/starutsav.png" group-title="📺 Entertainment 🇧🇩",IN - STAR UTSAV MOVIES
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281286&extension=ts&play_token=5T54W0TazP
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="📺 Entertainment 🇧🇩",IN - SONY UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281287&extension=ts&play_token=f7dYPwNiym
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="📺 Entertainment 🇧🇩",IN - SONY UHD (Back-Up)
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281288&extension=ts&play_token=wX2zX5CzgN
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/laz.sony.png" group-title="📺 Entertainment 🇧🇩",IN - SONY UHD USA
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281289&extension=ts&play_token=zNzyT8AGih
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/sonymaxhd.png" group-title="📺 Entertainment 🇧🇩",IN - SONY MAX UHD
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281290&extension=ts&play_token=8OhnhniY5L
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/zeeaction.jpg" group-title="📺 Entertainment 🇧🇩",IN - ZEE ACTION
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281297&extension=ts&play_token=vvK8RbrzAD
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/SONY-YAY.jpg" group-title="📺 Entertainment 🇧🇩",IN - SONY YAY
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281301&extension=ts&play_token=RhYvlTLvH4
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/in.b4umovies.png" group-title="📺 Entertainment 🇧🇩",IN - B4U MOVIES
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281302&extension=ts&play_token=orG2OkMZnM
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/in.aastha.png" group-title="📺 Entertainment 🇧🇩",IN - AASTHA
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281308&extension=ts&play_token=ElqJckra1X
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/in.aastha.png" group-title="📺 Entertainment 🇧🇩",IN - AASTHA BHAJAN
-http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=281309&extension=ts&play_token=xHz827SLgv
-#EXTINF:-1 tvg-url="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="📺 Entertainment 🇧🇩",Sony Aath HD new
-https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+#EXTINF:-1 tvg-url="" group-title="|AS| BANGLA",##### BANGLA #####
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281670&extension=ts&play_token=wOLkwHRXRU
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/atnbangla.png" group-title="|AS| BANGLA",BGL - ATN BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=767345&extension=ts&play_token=gEVEdE1YaC
+#EXTINF:-1 tvg-url="http://51.158.145.100/picons/logos/logos/ZEE-BANGLA.png" group-title="|AS| BANGLA",BGL - ZEE BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=1173096&extension=ts&play_token=wovdVDqdf8
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-HD.jpeg" group-title="|AS| BANGLA",BGL - ZEE BANGLA UHD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281671&extension=ts&play_token=hIzUrExsre
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/ZEE-BANGLA-CINEMA.png" group-title="|AS| BANGLA",BGL - ZEE BANGLA CINEMA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281673&extension=ts&play_token=Bdcd7864yE
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/STAR-JALSHA-MOVIES-HD.png" group-title="|AS| BANGLA",BGL - STAR JALSHA MOVIES UHD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281674&extension=ts&play_token=CPUrku2oT6
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/starjalsha.png" group-title="|AS| BANGLA",BGL - STAR JALSHA UHD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281675&extension=ts&play_token=LLQifqmF2q
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/COLORS-BANGLA-HD.jpeg" group-title="|AS| BANGLA",BGL - COLORS BANGLA UHD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281676&extension=ts&play_token=DqVbYrTSuI
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/24-GHANTA.png" group-title="|AS| BANGLA",BGL - 24 GHANTA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281677&extension=ts&play_token=RuYWIMAP7U
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/AAKASH-BANGLA.png" group-title="|AS| BANGLA",BGL - AAKASH BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281678&extension=ts&play_token=89Z9Zhj0Jc
+#EXTINF:-1 tvg-url="" group-title="|AS| BANGLA",BGL - AB TV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281681&extension=ts&play_token=uWHv4sgN4Y
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/SOMOY-NEWS-TV.jpeg" group-title="|AS| BANGLA",BGL - SOMOY NEWS HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729498&extension=ts&play_token=HCCB8bbVRl
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/GAAN-BANGLA.jpg" group-title="|AS| BANGLA",BAN - GAAN BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729497&extension=ts&play_token=ThbqSZMoHb
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/TIMES-24.png" group-title="|AS| BANGLA",BGL - TIMES 24
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729496&extension=ts&play_token=smJcop3m2c
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/news24.png" group-title="|AS| BANGLA",BGL - NEWS 24 FHD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729495&extension=ts&play_token=CrmXLzsuip
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/BANGLA-VISION.jpg" group-title="|AS| BANGLA",BGL - BANGLA VISION HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729494&extension=ts&play_token=hqEBzG7yfU
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/BANGLA-ETV.jpg" group-title="|AS| BANGLA",BGL - BANGLA ETV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729493&extension=ts&play_token=lMRQDWI8yO
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/JAMUNA-TV.jpeg" group-title="|AS| BANGLA",BGL - JAMUNA TV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=732729&extension=ts&play_token=kHjTH4bRWR
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/CHANNEL-24-HD.jpeg" group-title="|AS| BANGLA",BGL - CHANNEL 24
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=732728&extension=ts&play_token=oKPhEInGLb
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/RTV-MUSIC.png" group-title="|AS| BANGLA",BGL - RTV MUSIC
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729492&extension=ts&play_token=ShxowAWQVh
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/RTV--.png" group-title="|AS| BANGLA",BGL - RTV FHD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729491&extension=ts&play_token=1spLUvkhaY
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/RTV--.png" group-title="|AS| BANGLA",BGL - RTV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729490&extension=ts&play_token=MV46IO3Oka
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/DISCOVERY-BANGLA.png" group-title="|AS| BANGLA",BGL - DISCOVERY BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729489&extension=ts&play_token=DvF5TLlDRP
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/EKATTOR-TV.png" group-title="|AS| BANGLA",BGL - EKATTOR TV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729488&extension=ts&play_token=oE4f44S7tP
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/BANGLA-ETV.jpg" group-title="|AS| BANGLA",BGL - ETV BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=729487&extension=ts&play_token=0MqfUV7qAE
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/ABP-ANANDA.jpeg" group-title="|AS| BANGLA",BGL - ABP ANANDA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281679&extension=ts&play_token=gUA8ZhVS7M
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/PEACE-TV-BANGLA.jpeg" group-title="|AS| BANGLA",BGL - PEACE TV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=693553&extension=ts&play_token=kBQHIJoXxF
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/DD-BANGLA.jpg" group-title="|AS| BANGLA",BGL - DD BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281680&extension=ts&play_token=fFPNr6IeLs
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/SANGEET-BANGLA.png" group-title="|AS| BANGLA",BGL - SANGEET BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281682&extension=ts&play_token=WKKwcIl2Js
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="|AS| BANGLA",BGL - NAT GEO BENGALI UHD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281683&extension=ts&play_token=UH2chKz5ak
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons-dino/logos/ENTER-10-BANGLA.jpeg" group-title="|AS| BANGLA",BGL - ENTER 10 BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=281684&extension=ts&play_token=NgtmgfxBk4
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/ANANDA-TV.png" group-title="|AS| BANGLA",BGL - ANANDA TV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839383&extension=ts&play_token=5d79627SOM
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/atnbangla.png" group-title="|AS| BANGLA",BGL - ATN BANGLA
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839368&extension=ts&play_token=OYBCCZgAg0
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/BANGLA-VISION.jpg" group-title="|AS| BANGLA",BGL - BANGLA VISION HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839366&extension=ts&play_token=EjebH66oV6
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/BIJOY-TV.jpeg" group-title="|AS| BANGLA",BGL - BIJOY TV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839384&extension=ts&play_token=696tySansp
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/banglatv.png" group-title="|AS| BANGLA",BGL - BANGLA TV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839373&extension=ts&play_token=k1baY5OPN9
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/BOISHAKHI-TV.jpeg" group-title="|AS| BANGLA",BGL - BOISHAKHI TV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839370&extension=ts&play_token=ImjZZ4niw2
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/btv.png" group-title="|AS| BANGLA",BGL - BTV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839369&extension=ts&play_token=kDc4BuPdYN
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/channeli.png" group-title="|AS| BANGLA",BGL - CHANNEL I HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839364&extension=ts&play_token=KLeDBz9XUk
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/CHANNEL-S.jpg" group-title="|AS| BANGLA",BGL - CHANNEL S HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=1153984&extension=ts&play_token=6utQgAq6k7
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/CHANNEL-24-HD.jpeg" group-title="|AS| BANGLA",BGL - CHANNEL 24 HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839374&extension=ts&play_token=Qt0ogSo5zD
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/DBC-NEWS-HD.jpg" group-title="|AS| BANGLA",BGL - DBC NEWS HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839382&extension=ts&play_token=3s23k1CkHn
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/DEEPTO-TV-HD.jpg" group-title="|AS| BANGLA",BGL - DEPTO TV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839379&extension=ts&play_token=5qAa0IMnRy
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/DESH-TV.jpg" group-title="|AS| BANGLA",BGL - DESH TV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839372&extension=ts&play_token=CPhYSIznL9
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/EKATTOR-TV.png" group-title="|AS| BANGLA",BGL - EKATTOR TV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839380&extension=ts&play_token=7ogxQ9h6Zf
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/EKUSHEY-TV.jpeg" group-title="|AS| BANGLA",BGL - EKUSHEY TV
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839371&extension=ts&play_token=nATfQ6Z2mw
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/JAMUNA-TV.jpeg" group-title="|AS| BANGLA",BGL - JAMUNA TV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839375&extension=ts&play_token=fTxdmwADbL
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/mytv.png" group-title="|AS| BANGLA",BGL - MY TV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839376&extension=ts&play_token=yZldBhKjFL
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/MASRANGA-TV.jpeg" group-title="|AS| BANGLA",BGL - MAASRANGA HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839377&extension=ts&play_token=RZciPSpcwX
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/SOMOY-NEWS-TV.jpeg" group-title="|AS| BANGLA",BGL - SOMOY NEWS HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839378&extension=ts&play_token=FLLp9YcQxG
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/in.ntv.png" group-title="|AS| BANGLA",BGL - NTV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839365&extension=ts&play_token=i90bwaakMw
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/RTV.png" group-title="|AS| BANGLA",BGL - RTV HD
+http://103.176.90.185:80/play/live.php?mac=00:1A:79:21:8C:72&stream=839367&extension=ts&play_token=SKbxIvXFcb
